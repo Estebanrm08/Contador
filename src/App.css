@@ -53,3 +53,20 @@ button:hover {
   margin-top: 10px;
   color: #339c79;
 }
+
+/* Estilo para el campo de entrada del número del usuario */
+.user-input {
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 18px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 200px;
+}
+
+/* Estilo para el mensaje de comparación */
+.comparison-message {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #ff5733; /* Color para el mensaje de comparación */
+}
